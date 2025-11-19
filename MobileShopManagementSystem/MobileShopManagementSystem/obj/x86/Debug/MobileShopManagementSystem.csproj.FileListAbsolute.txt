@@ -1,0 +1,74 @@
+C:\Users\N\documents\visual studio 2010\Projects\MobileShopManagementSystem\MobileShopManagementSystem\bin\Debug\phone.mdf
+C:\Users\N\documents\visual studio 2010\Projects\MobileShopManagementSystem\MobileShopManagementSystem\bin\Debug\phone_log.ldf
+C:\Users\N\documents\visual studio 2010\Projects\MobileShopManagementSystem\MobileShopManagementSystem\bin\Debug\MobileShopManagementSystem.exe
+C:\Users\N\documents\visual studio 2010\Projects\MobileShopManagementSystem\MobileShopManagementSystem\bin\Debug\MobileShopManagementSystem.pdb
+C:\Users\N\documents\visual studio 2010\Projects\MobileShopManagementSystem\MobileShopManagementSystem\obj\x86\Debug\MobileShopManagementSystem.Customers.resources
+C:\Users\N\documents\visual studio 2010\Projects\MobileShopManagementSystem\MobileShopManagementSystem\obj\x86\Debug\MobileShopManagementSystem.DeletePhoneRecord.resources
+C:\Users\N\documents\visual studio 2010\Projects\MobileShopManagementSystem\MobileShopManagementSystem\obj\x86\Debug\MobileShopManagementSystem.Form1.resources
+C:\Users\N\documents\visual studio 2010\Projects\MobileShopManagementSystem\MobileShopManagementSystem\obj\x86\Debug\MobileShopManagementSystem.Form2.resources
+C:\Users\N\documents\visual studio 2010\Projects\MobileShopManagementSystem\MobileShopManagementSystem\obj\x86\Debug\MobileShopManagementSystem.Home.resources
+C:\Users\N\documents\visual studio 2010\Projects\MobileShopManagementSystem\MobileShopManagementSystem\obj\x86\Debug\MobileShopManagementSystem.NewPhone.resources
+C:\Users\N\documents\visual studio 2010\Projects\MobileShopManagementSystem\MobileShopManagementSystem\obj\x86\Debug\MobileShopManagementSystem.Properties.Resources.resources
+C:\Users\N\documents\visual studio 2010\Projects\MobileShopManagementSystem\MobileShopManagementSystem\obj\x86\Debug\MobileShopManagementSystem.SearchPhoneRecord.resources
+C:\Users\N\documents\visual studio 2010\Projects\MobileShopManagementSystem\MobileShopManagementSystem\obj\x86\Debug\MobileShopManagementSystem.Stock.resources
+C:\Users\N\documents\visual studio 2010\Projects\MobileShopManagementSystem\MobileShopManagementSystem\obj\x86\Debug\MobileShopManagementSystem.csproj.GenerateResource.Cache
+C:\Users\N\documents\visual studio 2010\Projects\MobileShopManagementSystem\MobileShopManagementSystem\obj\x86\Debug\MobileShopManagementSystem.exe
+C:\Users\N\documents\visual studio 2010\Projects\MobileShopManagementSystem\MobileShopManagementSystem\obj\x86\Debug\MobileShopManagementSystem.pdb
+C:\Users\N\documents\visual studio 2010\Projects\MobileShopManagementSystem\MobileShopManagementSystem\bin\Debug\MobileShopManagementSystem.exe.config
+F:\Sem.4\C# Projects\Trials\MobileShopManagementSystem\MobileShopManagementSystem\bin\Debug\phone.mdf
+F:\Sem.4\C# Projects\Trials\MobileShopManagementSystem\MobileShopManagementSystem\bin\Debug\phone_log.ldf
+F:\Sem.4\C# Projects\Trials\MobileShopManagementSystem\MobileShopManagementSystem\bin\Debug\MobileShopManagementSystem.exe.config
+F:\Sem.4\C# Projects\Trials\MobileShopManagementSystem\MobileShopManagementSystem\bin\Debug\MobileShopManagementSystem.exe
+F:\Sem.4\C# Projects\Trials\MobileShopManagementSystem\MobileShopManagementSystem\bin\Debug\MobileShopManagementSystem.pdb
+F:\Sem.4\C# Projects\Trials\MobileShopManagementSystem\MobileShopManagementSystem\obj\x86\Debug\MobileShopManagementSystem.Customers.resources
+F:\Sem.4\C# Projects\Trials\MobileShopManagementSystem\MobileShopManagementSystem\obj\x86\Debug\MobileShopManagementSystem.DeletePhoneRecord.resources
+F:\Sem.4\C# Projects\Trials\MobileShopManagementSystem\MobileShopManagementSystem\obj\x86\Debug\MobileShopManagementSystem.Form1.resources
+F:\Sem.4\C# Projects\Trials\MobileShopManagementSystem\MobileShopManagementSystem\obj\x86\Debug\MobileShopManagementSystem.Form2.resources
+F:\Sem.4\C# Projects\Trials\MobileShopManagementSystem\MobileShopManagementSystem\obj\x86\Debug\MobileShopManagementSystem.Home.resources
+F:\Sem.4\C# Projects\Trials\MobileShopManagementSystem\MobileShopManagementSystem\obj\x86\Debug\MobileShopManagementSystem.NewPhone.resources
+F:\Sem.4\C# Projects\Trials\MobileShopManagementSystem\MobileShopManagementSystem\obj\x86\Debug\MobileShopManagementSystem.Properties.Resources.resources
+F:\Sem.4\C# Projects\Trials\MobileShopManagementSystem\MobileShopManagementSystem\obj\x86\Debug\MobileShopManagementSystem.SearchPhoneRecord.resources
+F:\Sem.4\C# Projects\Trials\MobileShopManagementSystem\MobileShopManagementSystem\obj\x86\Debug\MobileShopManagementSystem.Stock.resources
+F:\Sem.4\C# Projects\Trials\MobileShopManagementSystem\MobileShopManagementSystem\obj\x86\Debug\MobileShopManagementSystem.csproj.GenerateResource.Cache
+F:\Sem.4\C# Projects\Trials\MobileShopManagementSystem\MobileShopManagementSystem\obj\x86\Debug\MobileShopManagementSystem.csproj.CoreCompileInputs.cache
+F:\Sem.4\C# Projects\Trials\MobileShopManagementSystem\MobileShopManagementSystem\obj\x86\Debug\MobileShopManagementSystem.exe
+F:\Sem.4\C# Projects\Trials\MobileShopManagementSystem\MobileShopManagementSystem\obj\x86\Debug\MobileShopManagementSystem.pdb
+F:\Sem.4\C# Projects\Trials\MobileShopManagementSystem\MobileShopManagementSystem\obj\x86\Debug\MobileShopManagementSystem.csprojResolveAssemblyReference.cache
+F:\Sem.4\C# Projects\MobileShopManagementSystem\MobileShopManagementSystem\bin\Debug\phone.mdf
+F:\Sem.4\C# Projects\MobileShopManagementSystem\MobileShopManagementSystem\bin\Debug\phone_log.ldf
+F:\Sem.4\C# Projects\MobileShopManagementSystem\MobileShopManagementSystem\bin\Debug\MobileShopManagementSystem.exe.config
+F:\Sem.4\C# Projects\MobileShopManagementSystem\MobileShopManagementSystem\bin\Debug\MobileShopManagementSystem.exe
+F:\Sem.4\C# Projects\MobileShopManagementSystem\MobileShopManagementSystem\bin\Debug\MobileShopManagementSystem.pdb
+F:\Sem.4\C# Projects\MobileShopManagementSystem\MobileShopManagementSystem\obj\x86\Debug\MobileShopManagementSystem.csprojResolveAssemblyReference.cache
+F:\Sem.4\C# Projects\MobileShopManagementSystem\MobileShopManagementSystem\obj\x86\Debug\MobileShopManagementSystem.Customers.resources
+F:\Sem.4\C# Projects\MobileShopManagementSystem\MobileShopManagementSystem\obj\x86\Debug\MobileShopManagementSystem.DeletePhoneRecord.resources
+F:\Sem.4\C# Projects\MobileShopManagementSystem\MobileShopManagementSystem\obj\x86\Debug\MobileShopManagementSystem.Form1.resources
+F:\Sem.4\C# Projects\MobileShopManagementSystem\MobileShopManagementSystem\obj\x86\Debug\MobileShopManagementSystem.Form2.resources
+F:\Sem.4\C# Projects\MobileShopManagementSystem\MobileShopManagementSystem\obj\x86\Debug\MobileShopManagementSystem.Home.resources
+F:\Sem.4\C# Projects\MobileShopManagementSystem\MobileShopManagementSystem\obj\x86\Debug\MobileShopManagementSystem.NewPhone.resources
+F:\Sem.4\C# Projects\MobileShopManagementSystem\MobileShopManagementSystem\obj\x86\Debug\MobileShopManagementSystem.Properties.Resources.resources
+F:\Sem.4\C# Projects\MobileShopManagementSystem\MobileShopManagementSystem\obj\x86\Debug\MobileShopManagementSystem.SearchPhoneRecord.resources
+F:\Sem.4\C# Projects\MobileShopManagementSystem\MobileShopManagementSystem\obj\x86\Debug\MobileShopManagementSystem.Stock.resources
+F:\Sem.4\C# Projects\MobileShopManagementSystem\MobileShopManagementSystem\obj\x86\Debug\MobileShopManagementSystem.csproj.GenerateResource.Cache
+F:\Sem.4\C# Projects\MobileShopManagementSystem\MobileShopManagementSystem\obj\x86\Debug\MobileShopManagementSystem.csproj.CoreCompileInputs.cache
+F:\Sem.4\C# Projects\MobileShopManagementSystem\MobileShopManagementSystem\obj\x86\Debug\MobileShopManagementSystem.exe
+F:\Sem.4\C# Projects\MobileShopManagementSystem\MobileShopManagementSystem\obj\x86\Debug\MobileShopManagementSystem.pdb
+F:\Code Projects Files\NEWW C Projects 19nov\MobileShop Management C#\MobileShopManagementSystem\MobileShopManagementSystem\bin\Debug\phone.mdf
+F:\Code Projects Files\NEWW C Projects 19nov\MobileShop Management C#\MobileShopManagementSystem\MobileShopManagementSystem\bin\Debug\phone_log.ldf
+F:\Code Projects Files\NEWW C Projects 19nov\MobileShop Management C#\MobileShopManagementSystem\MobileShopManagementSystem\bin\Debug\MobileShopManagementSystem.exe.config
+F:\Code Projects Files\NEWW C Projects 19nov\MobileShop Management C#\MobileShopManagementSystem\MobileShopManagementSystem\bin\Debug\MobileShopManagementSystem.exe
+F:\Code Projects Files\NEWW C Projects 19nov\MobileShop Management C#\MobileShopManagementSystem\MobileShopManagementSystem\bin\Debug\MobileShopManagementSystem.pdb
+F:\Code Projects Files\NEWW C Projects 19nov\MobileShop Management C#\MobileShopManagementSystem\MobileShopManagementSystem\obj\x86\Debug\MobileShopManagementSystem.csprojResolveAssemblyReference.cache
+F:\Code Projects Files\NEWW C Projects 19nov\MobileShop Management C#\MobileShopManagementSystem\MobileShopManagementSystem\obj\x86\Debug\MobileShopManagementSystem.Customers.resources
+F:\Code Projects Files\NEWW C Projects 19nov\MobileShop Management C#\MobileShopManagementSystem\MobileShopManagementSystem\obj\x86\Debug\MobileShopManagementSystem.DeletePhoneRecord.resources
+F:\Code Projects Files\NEWW C Projects 19nov\MobileShop Management C#\MobileShopManagementSystem\MobileShopManagementSystem\obj\x86\Debug\MobileShopManagementSystem.Form1.resources
+F:\Code Projects Files\NEWW C Projects 19nov\MobileShop Management C#\MobileShopManagementSystem\MobileShopManagementSystem\obj\x86\Debug\MobileShopManagementSystem.Form2.resources
+F:\Code Projects Files\NEWW C Projects 19nov\MobileShop Management C#\MobileShopManagementSystem\MobileShopManagementSystem\obj\x86\Debug\MobileShopManagementSystem.Home.resources
+F:\Code Projects Files\NEWW C Projects 19nov\MobileShop Management C#\MobileShopManagementSystem\MobileShopManagementSystem\obj\x86\Debug\MobileShopManagementSystem.NewPhone.resources
+F:\Code Projects Files\NEWW C Projects 19nov\MobileShop Management C#\MobileShopManagementSystem\MobileShopManagementSystem\obj\x86\Debug\MobileShopManagementSystem.Properties.Resources.resources
+F:\Code Projects Files\NEWW C Projects 19nov\MobileShop Management C#\MobileShopManagementSystem\MobileShopManagementSystem\obj\x86\Debug\MobileShopManagementSystem.SearchPhoneRecord.resources
+F:\Code Projects Files\NEWW C Projects 19nov\MobileShop Management C#\MobileShopManagementSystem\MobileShopManagementSystem\obj\x86\Debug\MobileShopManagementSystem.Stock.resources
+F:\Code Projects Files\NEWW C Projects 19nov\MobileShop Management C#\MobileShopManagementSystem\MobileShopManagementSystem\obj\x86\Debug\MobileShopManagementSystem.csproj.GenerateResource.Cache
+F:\Code Projects Files\NEWW C Projects 19nov\MobileShop Management C#\MobileShopManagementSystem\MobileShopManagementSystem\obj\x86\Debug\MobileShopManagementSystem.csproj.CoreCompileInputs.cache
+F:\Code Projects Files\NEWW C Projects 19nov\MobileShop Management C#\MobileShopManagementSystem\MobileShopManagementSystem\obj\x86\Debug\MobileShopManagementSystem.exe
+F:\Code Projects Files\NEWW C Projects 19nov\MobileShop Management C#\MobileShopManagementSystem\MobileShopManagementSystem\obj\x86\Debug\MobileShopManagementSystem.pdb
